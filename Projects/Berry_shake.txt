@@ -1,0 +1,21 @@
+Recipe 1: Berry Shake
+Ingredients:
+  - 1.0 cup Mixed berries
+  - 1.0 cup vanilla yogurt
+  - 1.0 cup almond milk
+  - 1.0 tablespoon honey
+  - 1.0 cup ice cubes
+Instructions:
+  1. Add berries to the blender
+  2. Add yogurt and almond milk
+  3. Add honey
+  4. Blend until smooth
+  5. Add ice
+  6. Serve and Enjoy
+Nutrition Info:
+  Calories: 200.0
+  Protein: 15.0
+  Carbs: 35.0
+  Fat: 7.0
+Tags: easy, healthy
+

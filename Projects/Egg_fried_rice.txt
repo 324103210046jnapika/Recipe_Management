@@ -1,0 +1,32 @@
+Recipe 6: Egg fried rice
+Ingredients:
+  - 2.0 cups cooked rice
+  - 1.0 tablespoon oil
+  - 1.0 diced onion
+  - 2.0 minced garlic cloves
+  - 1.0 cup mixed vegetables
+  - 2.0 beaten eggs
+  - 1.0 teaspoon soy sauce
+  - 1.0 teaspoon oyster sauce
+  - 1.0 teaspoon salt 
+  - 1.0 teaspoon pepper
+  - 1.0 chopped scallions
+Instructions:
+  1. Heat oil in a large skillet
+  2. Add diced onion and minced garlic
+  3. Add mixed vegetables
+  4. Push vegetables to one side
+  5. Add beaten eggs
+  6. Mix eggs with vegetables
+  7. Add cooked rice
+  8. Add soy sauce and oyster sauce
+  9. Season with salt and pepper
+  10. Garnish with chopped scallions
+  11. Serve hot and enjoy
+Nutrition Info:
+  Calories: 400.0
+  Protein: 15.0
+  Carbs: 15.0
+  Fat: 5.0
+Tags: delicious, healthy
+

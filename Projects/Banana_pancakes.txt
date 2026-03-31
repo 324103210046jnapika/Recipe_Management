@@ -1,0 +1,24 @@
+Recipe 2: Banana pancakes
+Ingredients:
+  - 2.0 mashed ripe bananas
+  - 1.0 cup granulated flour
+  - 2.0 teaspoons baking powder
+  - 1.0 cup sugar
+  - 1.0 cup milk
+  - 2.0 pieces eggs
+  - 1.0 cup unsalted butter
+Instructions:
+  1. take wet ingredients(mash the ripe bananas in a bowl and set aside)
+  2. mix the dry ingredients
+  3. combine the wet and dry ingredients
+  4. Heat a non-stick pan 
+  5. Add the batter
+  6. cook the pancakes
+  7. Serve and Enjoy
+Nutrition Info:
+  Calories: 300.0
+  Protein: 6.0
+  Carbs: 10.0
+  Fat: 8.0
+Tags: reduce sugar, healthy, easy
+

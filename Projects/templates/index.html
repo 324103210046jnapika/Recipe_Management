@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Recipe Viewer</title>
+    <!-- This link must be here and must use Jinja -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}?v=1">
+</head>
+<body>
+    
+    <h1>🍽️ Select a Recipe</h1>
+
+    <form method="post">
+        <select name="choice">
+            <option value="1">Berry Shake</option>
+            <option value="2">Banana Pancakes</option>
+            <option value="3">Kaju Paneer</option>
+            <option value="4">Chicken Dry Roast</option>
+            <option value="5">Carrot Halva</option>
+            <option value="6">Egg Fried Rice</option>
+        </select>
+        <button type="submit">View Recipe</button>
+        <!-- Display logged-in user and logout link -->
+    <p>
+        Welcome, {{ session['username'] }} |
+        <button href="{{ url_for('logout') }} "c>Logout</button>
+    </p>
+    </form>
+
+    {% if content %}
+        <h2>Recipe Content:</h2>
+        <pre>{{ content }}</pre>
+    {% endif %}
+</body>
+</html>

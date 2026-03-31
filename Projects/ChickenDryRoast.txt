@@ -1,0 +1,27 @@
+Recipe 4: Chicken Dry Roast
+Ingredients:
+  - 1.0 lbs Chicken Pieces
+  - 3.0 tablespoons vegetable oil
+  - 1.0 teaspoon cumin seeds
+  - 1.0 teaspoon coriander seeds
+  - 1.0 teaspoon fennel seeds
+  - 1.0 teaspoon ginger paste
+  - 1.0 teaspoon garlic paste
+  - 1.0  teaspoon chilli powder
+  - 1.0 teaspoon garam masala powder
+  - 1.0 teaspoon turmeric powder
+  - 1.0 teaspoon salt
+Instructions:
+  1. Marinate the chicken in spices and yogurt can enhance the flavour
+  2. Heat oil in a pan
+  3. Add chicken
+  4. Cook until done
+  5. Continue cooking the chicken until it is dry and roasted ,stirring occasionally
+  6. Garnish and Serve
+Nutrition Info:
+  Calories: 350.0
+  Protein: 35.0
+  Carbs: 10.0
+  Fat: 15.0
+Tags: healthy, spicy
+

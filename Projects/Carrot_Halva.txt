@@ -1,0 +1,25 @@
+Recipe 5: Carrot Halva
+Ingredients:
+  - 2.0 cups grated carrots
+  - 2.0 cups milk
+  - 0.5 cup ghee
+  - 0.5 cup sugar
+  - 0.25 teaspoon cardamom powder
+  - 0.5 teaspoon  saffron seeds
+  - 1.0 tablespoon chopped nuts
+Instructions:
+  1. Heat ghee in a pan over medium heat
+  2. Saute the grated carrots
+  3. Add milk
+  4. Reduce the heat and simmer until the milk is absorbed and carrots are cooked
+  5. Add sugar
+  6. Cook until thickened
+  7. Add cardamom powder and saffron seeds
+  8. Garnish with nuts
+  9. Serve and Enjoy
+Nutrition Info:
+  Calories: 270.0
+  Protein: 6.0
+  Carbs: 50.0
+  Fat: 14.0
+Tags: easy, healthy, low fat

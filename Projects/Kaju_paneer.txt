@@ -1,0 +1,31 @@
+Recipe 3: Kaju paneer
+Ingredients:
+  - 250.0 grams Paneer
+  - 1.0 cup cashews
+  - 1.0 cup fresh cream
+  - 1.0 cup tomato puree
+  - 1.0 tablespoon butter
+  - 1.0 teaspoon cumin seeds
+  - 1.0 teaspoon ginger paste
+  - 1.0 teaspoon garlic paste
+  - 1.0 teaspoon garam masala powder
+  - 1.0 teaspoon turmeric powder
+  - 1.0 tablespoon salt 
+Instructions:
+  1. Soak the cashews
+  2. Heat butter
+  3. Add ginger and garlic paste
+  4. Add tomato puree
+  5. Blend the soaked cashews into paste
+  6. add these ingredients on to a cooker
+  7. Add spices
+  8. Add paneer
+  9. Add cream
+  10. Season with salt for a taste
+  11. Garnish and Serve
+Nutrition Info:
+  Calories: 400.0
+  Protein: 20.0
+  Carbs: 15.0
+  Fat: 30.0
+Tags: low-fat, easy, healthy
