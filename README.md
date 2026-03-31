@@ -17,7 +17,7 @@
 ---
 
 ## 📁 Project Structure
-
+```
 Recipe_Management/
 │
 ├── Projects/
@@ -39,7 +39,7 @@ Recipe_Management/
 │
 └── README.md
 
-
+```
 ---
 
 ## ▶️ How to Run the Project
